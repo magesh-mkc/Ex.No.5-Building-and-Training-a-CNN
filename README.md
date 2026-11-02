@@ -116,7 +116,7 @@ def plot_predictions(index):
     plt.show()                        
 
 for i in range(5):
-    plot_predictions(i)
+    plot_predictions(i)                                                                                                
 <img width="552" height="69" alt="image" src="https://github.com/user-attachments/assets/0febb5dd-2c8b-406e-9298-e518f58ea23b" />
 <img width="504" height="504" alt="image" src="https://github.com/user-attachments/assets/f97a0605-a07a-48aa-8909-908744ffb565" />
 <img width="327" height="34" alt="image" src="https://github.com/user-attachments/assets/e266bb30-ee77-4765-8e08-091237edb842" />
